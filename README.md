@@ -84,14 +84,6 @@
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaognx\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaognx\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joaognx)
