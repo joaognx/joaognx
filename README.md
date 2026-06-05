@@ -97,7 +97,7 @@
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-nunes-774074302)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joaognx)
 
 [![Gmail](https://img.shields.io/badge/-joaotutors291%40gmail.com-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:joaotutors291@gmail.com)
 
