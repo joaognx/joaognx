@@ -13,12 +13,8 @@
 ## 🚀 Sobre mim
 
 * 🤖 Vice-Presidente da Liga Acadêmica de Robótica Aplicada (LARA/UFPI)
-* 👨‍🏫 Monitor de Programação Estruturada
-* 📱 Participante do programa HackaTruck MakerSpace
 * 🔧 Experiência com robótica, sensores, automação e sistemas embarcados
 * 🌐 Desenvolvimento de aplicações web, mobile e APIs REST
-* 📚 Interesse em Inteligência Artificial, IoT, Computação Gráfica e Engenharia de Software
-
 ---
 
 ## 💻 Minhas Skills
