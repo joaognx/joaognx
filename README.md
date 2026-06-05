@@ -79,10 +79,7 @@
 
 * 🛒 Vitrine do Mar — E-commerce desenvolvido com React, APIs REST e banco de dados.
 * 🚗 Sistema de Locadora de Veículos — Projeto desenvolvido com Spring Boot, JPA e PostgreSQL.
-* 🤖 Projetos de Robótica Aplicada (LARA) — Desenvolvimento de robôs, sensores e sistemas embarcados.
 * 📱 Aplicações Mobile com SwiftUI — Desenvolvidas durante o HackaTruck MakerSpace.
-* 🎨 Paint OpenGL — Editor gráfico desenvolvido em C++ utilizando OpenGL e GLUT.
-* 🧠 Processamento Digital de Imagens — Implementação de filtros, convolução e técnicas de visão computacional.
 * 🌐 APIs REST — Desenvolvimento de serviços backend com Spring Boot, Flask e Express.
 
 ---
