@@ -73,11 +73,9 @@
 
 ## 🚀 Projetos em Destaque
 
-* 🛒 Vitrine do Mar — E-commerce desenvolvido com React, APIs REST e banco de dados.
+* 🛒 Vitrine do Mar — E-commerce em desenvolvimento com React, APIs REST e banco de dados.
 * 🚗 Sistema de Locadora de Veículos — Projeto desenvolvido com Spring Boot, JPA e PostgreSQL.
-* 📱 Aplicações Mobile com SwiftUI — Desenvolvidas durante o HackaTruck MakerSpace.
-* 🌐 APIs REST — Desenvolvimento de serviços backend com Spring Boot, Flask e Express.
-
+* 📱 HackaGuard — App iOS para monitoramento de som, movimento e gás desenvolvido no HackaTruck MakerSpace.
 ---
 
 ## 📫 Onde me encontrar
