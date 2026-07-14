@@ -73,9 +73,11 @@
 
 ## 🚀 Projetos em Destaque
 
-* 🛒 Vitrine do Mar — E-commerce em desenvolvimento com React, APIs REST e banco de dados.
-* 🚗 Sistema de Locadora de Veículos — Projeto desenvolvido com Spring Boot, JPA e PostgreSQL.
 * 📱 HackaGuard — App iOS para monitoramento de som, movimento e gás desenvolvido no HackaTruck MakerSpace.
+* 🏄 UFPI Surfers — Jogo 3D inspirado em Subway Surfers, desenvolvido em C++ com OpenGL.
+* 🛒 Vitrine do Mar — E-commerce em desenvolvimento com React, APIs REST e banco de dados.
+* 📝 Extensão SIPAE - Extensão para Google Chrome desenvolvida para automatizar o preenchimento de aulas no SIPAE a partir de um arquivo JSON.
+* 📜 Recuperação de Documentos Históricos — Pipeline de processamento de imagens em Python para restauração de documentos degradados.
 ---
 
 ## 📫 Onde me encontrar
