@@ -1,13 +1,5 @@
 # Olá, eu sou João Gabriel Nunes 👋
 
-🎓 Estudante de Ciência da Computação na Universidade Federal do Piauí (UFPI)
-
-💡 Apaixonado por desenvolvimento de software, robótica, Internet das Coisas (IoT) e inovação tecnológica.
-
-🚀 Atualmente atuo como Vice-Presidente da Liga Acadêmica de Robótica Aplicada (LARA) e participo de projetos de pesquisa, extensão e desenvolvimento de software.
-
-🌱 Aprimorando conhecimentos em Dese# Olá, eu sou João Gabriel Nunes 👋
-
 🎓 Estudante de Ciência da Computação na Universidade Federal do Piauí (UFPI).
 
 💡 Interessado em desenvolvimento de software, robótica, Visão Computacional, Inteligência Artificial e Internet das Coisas (IoT).
